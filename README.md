@@ -22,9 +22,7 @@ On the eils-hpc this env can be sourced here: `/home/ishaquen/miniconda3/bin/act
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
- - v1.1.1: removed rescaling for sex chromosomes as this has no effect on output
- - v1.1.0: corrected log rebasing for non diploids
- - v1.0.0: first working version (do not use)
+ - v1.0.0: first working version
 
 ## Authors
 
