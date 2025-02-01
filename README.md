@@ -14,7 +14,7 @@ On the eils-hpc this env can be sourced here: `/home/ishaquen/miniconda3/bin/act
 ## Usage
 
 ```
-  sh [/path/to/ACEseq_roddy_runtimeconfig.sh] [/path/to/analysis/ACEseq_dir] [pid]
+  sh estimateHRDScore.sh [/path/to/ACEseq_roddy_runtimeconfig.sh] [/path/to/analysis/ACEseq_dir] [pid]
 
 ```
 
